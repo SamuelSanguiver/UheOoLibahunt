@@ -1,0 +1,6 @@
+sissejuhatus-[Tere tulemast mängima Ühe Öö Libahunti(3 kuni 10 mängijat). Tegu on reeturi väljanuhkimise mänguga. /Kui soovite kiiret ülevaadet reeglitest, siis trükkige sisse "R"./Seadete muutmiseks trükkige "S"./Seadete nägemiseks trükkige "P"./Mängu alustamiseks trükkige "A"./Mängu kinnipanemiseks vajutage "E"./Kui soovite juhuslikult saada tegelasi, vajutage "J"./Kui tahate kasutada eelsalvestatud tegelasi, vajutage "D".]
+öö-[Algab öö. Sulgege silmad ja kuulake käsklusi.]
+päev-[Algab päev. Leidke üles enda seast libahunt.]
+reset-[Kas soovite korrata kõike samamoodi?]
+reeglid-[Ühe Öö Libahunt on reeturi leidmise mäng, *kus kõik mängijad kehastuvad külaelanikeks, *mõned on aga salamisi libahundid. *Külaelanike ülesanne on libahunt välja nuhkida, *libahuntide ülesanne on aga jääda varjatuks *ja saata süütu külaelanik tuleriidale.*Mäng koosneb kahest osast: Öö ja Päev.*Öö jooksul kõik mängijad teevad salamisi *oma rollide tegevused, *et teada saada teiste mängijate lojaalsusest.*Päeva jooksul kõik mängijad arutlevad, *kes nende seast on Libahunt *ja mängija soovil või taimeri lõppedes *tehakse hääletus, mil saab teada ohvri.*Ülespanekuks jagada igale mängijale tema rollikaart *ja panna kolm kaarti keskele ning käivitada rakendus.]
+lõpp-[Aeg sai läbi. Lugege kolmeni ja hääletage, kes teie seast on libahunt.]

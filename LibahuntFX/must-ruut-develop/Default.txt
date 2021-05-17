@@ -1,0 +1,5 @@
+mängijateArv-[5]
+rollitaimerRaske-[10]
+tegelased-[2, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0]
+rollitaimer-[2]
+mängutaimer-[120]
